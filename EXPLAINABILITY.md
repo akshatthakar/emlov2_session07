@@ -55,11 +55,39 @@ Explanation Output for  Predicted: Irish setter ( 0.9647130370140076 )
 
 Explanation Output for Predicted: ladybug ( 0.9731996059417725 )
 
+<p><b>integrated_gradient</b></p>
+<img src="https://emlov2session7.s3.ap-northeast-1.amazonaws.com/images/lady_bug_integrated_gradient.png" alt="Alt text" title="integrated_gradient">
+<p><b>integrated_gradient_noise_tunnel</b></p>
+<img src="https://emlov2session7.s3.ap-northeast-1.amazonaws.com/images/lady_bug_integrated_gradient_noise_tunnel.png" alt="Alt text" title="integrated_gradient_noise_tunnel">
+<p><b>gradient_shap</b></p>
+<img src="https://emlov2session7.s3.ap-northeast-1.amazonaws.com/images/lady_bug_gradient_shap.png" alt="Alt text" title="gradient_shap">
+<p><b>occlusion</b></p>
+<img src="https://emlov2session7.s3.ap-northeast-1.amazonaws.com/images/lady_bug_occlusion.png" alt="Alt text" title="occlusion">
+<p><b>Saliency</b></p>
+<img src="https://emlov2session7.s3.ap-northeast-1.amazonaws.com/images/lady_bug_Saliency.png" alt="Alt text" title="Saliency">
+<p><b>GradCAM</b></p>
+<img src="https://emlov2session7.s3.ap-northeast-1.amazonaws.com/images/lady_bug_GradCAM.png" alt="Alt text" title="GradCAM">
+<p><b>GradCAMPlusPlus</b></p>
+<img src="https://emlov2session7.s3.ap-northeast-1.amazonaws.com/images/lady_bug_GradCAMPlusPlus.png" alt="Alt text" title="GradCAMPlusPlus">
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Explanation Output for Predicted: cricket ( 0.6450178027153015 )
 
+<p><b>integrated_gradient</b></p>
+<img src="https://emlov2session7.s3.ap-northeast-1.amazonaws.com/images/cricket_integrated_gradient.png" alt="Alt text" title="integrated_gradient">
+<p><b>integrated_gradient_noise_tunnel</b></p>
+<img src="https://emlov2session7.s3.ap-northeast-1.amazonaws.com/images/cricket_integrated_gradient_noise_tunnel.png" alt="Alt text" title="integrated_gradient_noise_tunnel">
+<p><b>gradient_shap</b></p>
+<img src="https://emlov2session7.s3.ap-northeast-1.amazonaws.com/images/cricket_gradient_shap.png" alt="Alt text" title="gradient_shap">
+<p><b>occlusion</b></p>
+<img src="https://emlov2session7.s3.ap-northeast-1.amazonaws.com/images/cricket_occlusion.png" alt="Alt text" title="occlusion">
+<p><b>Saliency</b></p>
+<img src="https://emlov2session7.s3.ap-northeast-1.amazonaws.com/images/cricket_Saliency.png" alt="Alt text" title="Saliency">
+<p><b>GradCAM</b></p>
+<img src="https://emlov2session7.s3.ap-northeast-1.amazonaws.com/images/cricket_GradCAM.png" alt="Alt text" title="GradCAM">
+<p><b>GradCAMPlusPlus</b></p>
+<img src="https://emlov2session7.s3.ap-northeast-1.amazonaws.com/images/cricket_GradCAMPlusPlus.png" alt="Alt text" title="GradCAMPlusPlus">
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
